@@ -2,3 +2,5 @@
 .ruff_cache/
 .DS_Store
 __pycache__/
+
+practice.py
